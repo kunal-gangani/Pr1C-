@@ -1,3 +1,9 @@
+/*
+5. WAP which illustrates the use of public and private access modifiers
+Output:
+Enter Integer Value for Num : 5
+5 This is Value of Public Data Member of Class MyClass .
+	*/
 #include<iostream>
 using namespace std;
 class MyClass{
